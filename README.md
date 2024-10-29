@@ -1,1 +1,1 @@
-## 仿lintree
+## 仿linktr.ee
